@@ -4,10 +4,33 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>Simulatio.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>Weather.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>479B33D825201B6300F8814D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>479B33EE25201B6400F8814D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>479B33F925201B6400F8814D</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>
